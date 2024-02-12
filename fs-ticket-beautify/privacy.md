@@ -1,10 +1,10 @@
 ## Privacy Policy for FS Ticket Beautify Chrome Extension
 
-This Privacy Policy governs how Ibrahim Sharif collects, uses, maintains, and discloses information collected from users (each, a "User") of the Timer mobile extension ("extension"). This privacy policy applies to the extension and all products and services offered by Ibrahim Sharif.
+This Privacy Policy governs how Ibrahim Sharif collects, uses, maintains, and discloses information collected from users (each, a "User") of the FS Ticket Beautify mobile extension ("extension"). This privacy policy applies to the extension and all products and services offered by Ibrahim Sharif.
 
 ## Information Collection and Use
 
-As of now, the extension does not require any user information to be submitted and we do not collect as well. If you have any questions or want to submit any experience with the Timer extension. You can do so by creating an issue under this GitHub Repository.
+As of now, the extension does not require any user information to be submitted and we do not collect as well. If you have any questions or want to submit any experience with the FS Ticket Beautify extension. You can do so by creating an issue under this GitHub Repository.
 
 ## Non-personal Identification Information
 
@@ -12,7 +12,7 @@ We are not storing or remotely collecting any extension or User data.
 
 ## How We Use Collected Information
 
-We do not collect any information from the Timer extension as of now.
+We do not collect any information from the FS Ticket Beautify extension as of now.
 
 ## How We Protect Your Information
 
