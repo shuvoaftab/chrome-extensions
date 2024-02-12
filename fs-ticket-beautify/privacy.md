@@ -1,6 +1,6 @@
 ## Privacy Policy for FS Ticket Beautify Chrome Extension
 
-This Privacy Policy governs how Ibrahim Sharif collects, uses, maintains, and discloses information collected from users (each, a "User") of the FS Ticket Beautify mobile extension ("extension"). This privacy policy applies to the extension and all products and services offered by Ibrahim Sharif.
+This Privacy Policy governs how Ibrahim Sharif collects, uses, maintains, and discloses information collected from users (each, a "User") of the FS Ticket Beautify extension ("extension"). This privacy policy applies to the extension and all products and services offered by Ibrahim Sharif.
 
 ## Information Collection and Use
 
