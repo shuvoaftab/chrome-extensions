@@ -141,9 +141,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Data management features
 
 ## Publisher
-Developer: Ibrahim Sharif
-Website: https://ibrahimsharif.com
-Blog: https://ibrahimsharif.com/posts
+- Developer: Ibrahim Sharif
+- Website: https://ibrahimsharif.com
+- Blog: https://ibrahimsharif.com/posts
 
 ---
 
